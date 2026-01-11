@@ -52,7 +52,7 @@ source env/bin/activate  # On Windows: env\Scripts\activate
 
 pip install -r requirements.txt
 
-🚀 Usage
+##🚀 Usage
 
 1.Run the application:
 
@@ -65,14 +65,17 @@ python app.py  # or streamlit run app.py
 
 (Optional) View visualizations for trends and model performance
 
-📊 Model Performance
-Model	Accuracy
-Random Forest	95%
-Decision Tree	92%
-Logistic Regression	90%
+## 📊 Model Performance
+
+| Model               | Accuracy |
+|---------------------|----------|
+| Random Forest       | 95%      |
+| Decision Tree       | 92%      |
+| Logistic Regression | 90%      |
 
 
-🤝 Contributing
+
+##🤝 Contributing
 
 Contributions are welcome!
 
@@ -89,12 +92,12 @@ Contributions are welcome!
 6.Open a Pull Request
 
 
-📝 License
+##📝 License
 
 MIT License – see the LICENSE
  file for details
 
-🔗 References
+##🔗 References
 
 PhishTank
  – Phishing URL datasets
