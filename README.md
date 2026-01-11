@@ -47,6 +47,7 @@ cd phishing-website-detection
 python -m venv env
 source env/bin/activate  # On Windows: env\Scripts\activate
 
+---
 
 4.Install dependencies:
 
@@ -65,6 +66,8 @@ python app.py  # or streamlit run app.py
 
 (Optional) View visualizations for trends and model performance
 
+---
+
 ## 📊 Model Performance
 
 | Model               | Accuracy |
@@ -73,7 +76,7 @@ python app.py  # or streamlit run app.py
 | Decision Tree       | 92%      |
 | Logistic Regression | 90%      |
 
-
+---
 
 ##🤝 Contributing
 
@@ -91,12 +94,13 @@ Contributions are welcome!
 
 6.Open a Pull Request
 
+---
 
 ##📝 License
 
 MIT License – see the LICENSE
  file for details
-
+---
 ##🔗 References
 
 PhishTank
@@ -106,3 +110,4 @@ UCI ML Repository
  – Datasets
 
 Scikit-learn Documentation
+---
