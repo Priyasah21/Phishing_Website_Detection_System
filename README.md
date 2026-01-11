@@ -47,8 +47,6 @@ cd phishing-website-detection
 python -m venv env
 source env/bin/activate  # On Windows: env\Scripts\activate
 
----
-
 4.Install dependencies:
 
 pip install -r requirements.txt
