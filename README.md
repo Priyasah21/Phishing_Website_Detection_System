@@ -78,36 +78,29 @@ python app.py  # or streamlit run app.py
 
 ---
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 
-1.Fork the repo
+1. Fork the repository  
+2. Create a new branch (`git checkout -b feature-name`)  
+3. Make your changes  
+4. Commit your changes (`git commit -m "Add feature"`)  
+5. Push (`git push origin feature-name`)  
+6. Open a Pull Request  
 
-2.Create a new branch (git checkout -b feature-name)
+## 📜 License
 
-3.Make your changes
+MIT License – see the LICENSE file for details  
 
-4.Commit (git commit -m "Add feature")
+## 🔗 References
 
-5.Push (git push origin feature-name)
+- **PhishTank** – Phishing URL datasets  
+- **UCI ML Repository** – Datasets  
+- **Scikit-learn Documentation**
 
-6.Open a Pull Request
 
----
 
-##📝 License
 
-MIT License – see the LICENSE
- file for details
----
-##🔗 References
 
-PhishTank
- – Phishing URL datasets
 
-UCI ML Repository
- – Datasets
-
-Scikit-learn Documentation
----
